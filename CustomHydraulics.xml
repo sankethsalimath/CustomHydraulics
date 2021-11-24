@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hopsancomponentlibrary version="0.3">
+    <id>12345a-678b-901c</id>
+    <name>CustomHydraulics</name>
+    <lib>CustomHydraulics</lib>
+    <source>CustomHydraulics.cpp</source>
+    </buildflags>
+    <component>DirectionControlValve_6_3.hpp</component>
+    <componentxml>DirectionControlValve_6_3.hpp</componentxml>
+</hopsancomponentlibrary>
